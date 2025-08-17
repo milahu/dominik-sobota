@@ -325,6 +325,8 @@ Meine Freundin aus Trostberg kennt ihn von früher.
   - Nur Selbstjustiz bringt wahre Gerechtigkeit
   - Bürgerwehr
   - Tyrannenmord ist legal
+  - Justizversagen ist ein Freibrief für Selbstjustiz
+  - Wir müssen uns selber helfen
 - Schulmediziner sind Kriminelle
   - Scheiss auf Schulmediziner
   - Tod allen Schulmedizinern
